@@ -1,0 +1,22 @@
+{
+  "name": "zyy-addition",
+  "version": "1.0.0",
+  "description": "Sum of two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangyingyu/addition.git"
+  },
+  "keywords": [
+    "addition"
+  ],
+  "author": "zhangyingyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyingyu/addition/issues"
+  },
+  "homepage": "https://github.com/zhangyingyu/addition#readme"
+}
